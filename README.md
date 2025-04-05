@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing & DevOps**
 - 💻 I love building **Fullstack Web Applications**
-- 🧠 I’m working on **Venue Booking System**, **Temple Tourism Platform**, and a **Personalized News Website**
+- 🧠 I worked on **Venue Booking System**, **Temple Tourism Platform**, and a **Personalized News Website**
 - 🏆 Recently won **2nd Runner-Up** in Frontend Frenzy 🌿
 - 📬 Contact me at: **divyakulanthaisamy@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/divyak04](https://www.linkedin.com/in/divyak04/)
