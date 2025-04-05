@@ -1,34 +1,97 @@
-<h1 align="center">Hi 👋, I'm Divya</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20I'm%20Divya%20K👋&fontSize=40&fontColor=ffffff" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyak-04&label=Profile%20views&color=0e75b6&style=flat" alt="divyak-04" /> </p>
-
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **MERN Stack, Firebase, and MongoDB**
-- 💬 Ask me about **Vue.js, Node.js, and REST APIs**
-- 📫 How to reach me: **divyak@example.com**
+<h2 align="center">👩‍💻 Fullstack Developer | MERN | Vue.js | MongoDB | Java | AWS Enthusiast 🌩️</h2>
 
 ---
 
-### 🛠 Tech Stack:
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 💫 About Me
+
+- 🌱 I’m currently learning **Cloud Computing & DevOps**
+- 💻 I love building **Fullstack Web Applications**
+- 🧠 I’m working on **Venue Booking System**, **Temple Tourism Platform**, and a **Personalized News Website**
+- 🏆 Recently won **2nd Runner-Up** in Frontend Frenzy 🌿
+- 📬 Contact me at: **divyakulanthaisamy@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/divyak04](https://www.linkedin.com/in/divyak04/)
 
 ---
 
-### 📊 GitHub Stats:
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyak-04&show_icons=true&theme=radical)
+### 🔧 Tech Stack
+
+**Languages:**  
+![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)  
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql)
+
+**Tools & Platforms:**  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure)
 
 ---
 
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=divyak-04)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyak-04&theme=radical&no-frame=true&column=7" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyak-04&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyak-04&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+### 🧠 Fun Dev Quote
+
+> “First, solve the problem. Then, write the code.”  
+> — John Johnson
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 [Venue Booking Website (Vue + Node + MongoDB)](https://github.com/Divyak-04/venue-booking)
+- 🔗 [Temple Tourism Platform](https://github.com/Divyak-04/temple-tourism)
+- 🔗 [Frontend Frenzy Go Green Site](https://github.com/Divyak-04/frontend-frenzy)
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:divyakulanthaisamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/divyak04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Divyak-04"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻+🌱" />
+</p>
