@@ -9,7 +9,6 @@
 
 ### 💫 About Me
 
-- 🌱 I’m currently learning **Cloud Computing & DevOps**
 - 💻 I love building **Fullstack Web Applications**
 - 🧠 I worked on **Venue Booking System**, **Temple Tourism Platform**, and a **Personalized News Website**
 - 🏆 Recently won **2nd Runner-Up** in Frontend Frenzy 🌿
@@ -45,8 +44,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 
 ---
 
