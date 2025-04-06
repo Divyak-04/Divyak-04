@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi%20I'm%20Divya%20K👋&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">👩‍💻 Fullstack Developer | MERN | Vue.js | MongoDB | Java | AWS Enthusiast 🌩️</h2>
+<h2 align="center">👩‍💻 Fullstack Developer | MERN | Vue.js | MongoDB | Java  🌩️</h2>
 
 ---
 
@@ -29,6 +29,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js)
+![React.js](https://img.shields.io/badge/React.js-4FC08D?style=flat-square&logo=React.js)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)  
@@ -45,7 +46,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
 
 **Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)  
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure)
 
 ---
