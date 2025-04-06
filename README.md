@@ -77,6 +77,7 @@
 - 🔗 [Venue Booking Website (Vue + Node + MongoDB)](https://github.com/Divyak-04/venue-booking)
 - 🔗 [Temple Tourism Platform](https://github.com/Divyak-04/temple-tourism)
 - 🔗 [Frontend Frenzy Go Green Site](https://github.com/Divyak-04/frontend-frenzy)
+- 🔗 [Personalized news website](https://github.com/Divyak-04/newsweb.git)
 
 ---
 
