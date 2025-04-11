@@ -20,7 +20,8 @@
 ### 🔧 Tech Stack
 
 **Languages:**  
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)  
+<div style={{ display: "flex" }}>
+ ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)  
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk)
 
 **Frontend:**  
@@ -43,6 +44,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  
+</div>
 
 
 
