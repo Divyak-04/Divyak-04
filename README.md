@@ -61,9 +61,9 @@ Tools & Platforms:
 
 ### 📌 Featured Projects
 
-- 🔗 [Venue Booking Website (Vue + Node + MongoDB)](https://github.com/Divyak-04/venue-booking)
+- 🔗 [Venue Booking Website (Vue + Node + MongoDB)](https://github.com/Divyak-04/venuebooking_system.git)
 - 🔗 [Temple Tourism Platform](https://github.com/Divyak-04/temple-tourism)
-- 🔗 [Frontend Frenzy Go Green Site](https://github.com/Divyak-04/frontend-frenzy)
+- 🔗 [Frontend Frenzy Go Green Site]
 - 🔗 [Personalized news website](https://github.com/Divyak-04/newsweb.git)
 
 ---
