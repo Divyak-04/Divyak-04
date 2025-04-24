@@ -63,7 +63,7 @@ Tools & Platforms:
 
 - 🔗 [Venue Booking Website (Vue + Node + MongoDB)](https://github.com/Divyak-04/venuebooking_system.git)
 - 🔗 [Temple Tourism Platform](https://github.com/Divyak-04/temple-tourism)
-- 🔗 [Frontend Frenzy Go Green Site]
+-  🔗[Digital memory jar](https://github.com/Divyak-04/digital-memory-jar.git)
 - 🔗 [Personalized news website](https://github.com/Divyak-04/newsweb.git)
 
 ---
